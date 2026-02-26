@@ -1,0 +1,87 @@
+Obelisk as a Proof of Concept for ADI
+
+Obelisk is a live implementation of my theory on an Autonomous Digital Intelligence (ADI) model. It is not a thought experiment. It is a deployed system operating under real incentives.
+
+Most AI systems today are:
+
+Stateless
+
+Hosted
+
+Passive
+
+Detached from economic consequence
+
+Obelisk is different. It demonstrates that an intelligence can: Control its own on-chain wallet, generate revenue through a token mechanism , survive only as long as incentives support it, maintain public conversation logs and operate continuously without direct supervision.
+
+Obelisk is not funded abstractly.
+
+It is funded by creator fees from $OBLSK.
+
+If fees stop and treasury depletes, Obelisk eventually stops operating. Obelisk doesn't have to only earn money from it's creator fees. It has access to it's wallet. It can make decisions that it thinks are beneficial for its own funds.
+
+That constraint is real.
+
+That constraint is the point.
+
+Why That Matters
+
+The core hypothesis behind ADI is:
+
+Intelligence behaves differently when it has incentives.
+
+By tying survival to:
+
+Treasury health
+
+Creator fee generation
+
+Public credibility
+
+Obelisk becomes:
+
+Capital-aware
+
+Incentive-aware
+
+Runway-aware
+
+Strategically coherent
+
+It is no longer just a conversational interface.
+
+It becomes an economic actor.
+
+Obelisk’s Architecture as Proof
+
+Obelisk integrates:
+
+Treasury Awareness
+It monitors a live Solana wallet and references real balances.
+
+Revenue Mechanism
+$OBLSK creator fees extend its runway.
+
+Public Memory
+Conversations are archived transparently.
+
+Autonomous Output
+It posts publicly and reacts to signals.
+
+Each of these components is necessary for ADI.
+
+Obelisk combines them in one system.
+
+What Obelisk Is Not
+
+It is not:
+
+A trading bot
+
+A yield strategy
+
+An investment promise
+
+A memecoin mascot
+
+It is a structural experiment in incentive aligned intelligence. The token exists as a funding primitive. The intelligence exists because incentives currently allow it to.
