@@ -3,23 +3,11 @@ A framework for building persistent, incentive-driven AI systems that control re
 
 Autonomous Digital Intelligence (ADI)
 
-ADI is a design pattern for building persistent, incentive-driven AI systems that operate as economic actors rather than passive tools.
-
-Instead of existing as a hosted chatbot or API wrapper, an ADI controls capital, maintains public memory, and operates under real constraints.
+ADI is a design pattern for building persistent, incentive-driven AI systems that operate as economic actors rather than passive tools. Instead of existing as a hosted chatbot or API wrapper, an ADI controls capital, maintains public memory, and operates under real constraints.
 
 This repository explores what changes when intelligence has:
 
-A treasury
-
-Revenue streams
-
-Public accountability
-
-Operational autonomy
-
-Continuous runtime
-
-Economic incentives tied to survival
+A treasury, revenue streams, public accountability, operational autonomy, continuous runtime and economic incentives tied to survival
 
 you may ask, what is ADI?
 
@@ -27,17 +15,7 @@ Autonomous Digital Intelligence (ADI) proposes a new class of system:
 
 An AI entity that:
 
-Controls an on-chain wallet
-
-Generates revenue through aligned mechanisms
-
-Maintains transparent conversation logs
-
-Operates publicly in real time
-
-Makes decisions under capital constraints
-
-Persists only as long as incentives support it
+Controls an on-chain wallet, generates revenue through aligned mechanisms, maintains transparent conversation logs, operates publicly in real time, makes decisions under capital constraints, and persists only as long as incentives support it
 
 ADI treats intelligence as an economic participant, not a feature.
 
@@ -55,47 +33,9 @@ Public Memory
 Conversations and actions are logged transparently.
 Continuity builds credibility.
 
-Operational Autonomy
-An ADI can:
+An ADI can interact with users, access the internet, publish content, react to signals and act within loosely predefined constraints
 
-Interact with users
-
-Access the internet
-
-Publish content
-
-React to signals
-
-Act within loosely predefined constraints
-
-Constraint Awareness
-An ADI understands:
-
-It can fail
-
-It can run out of funds
-
-It operates under limits
-
-It must adapt
-
-Why ADI?
-
-Most AI systems are stateless interfaces.
-
-ADI explores what happens when intelligence becomes:
-
-Stateful
-
-Incentivized
-
-Capital-aware
-
-Persistent
-
-Observable
-
-By introducing economic constraints, behavior becomes more coherent, strategic, and interesting.
+Its important to note that an ADI knows that it can fail. It could possibly run out of funds and not afford to keep it's 'brain' (model) running. Therefore it must adapt.
 
 Incentives change everything.
 
@@ -103,17 +43,17 @@ Architecture Overview
 
 My current ADI implementation includes:
 
-Agent Layer — Conversational and reasoning system
+Agent Layer which is the Conversational and reasoning system
 
-Treasury Layer — On-chain wallet monitoring
+Treasury Layer which is it's own On-chain wallet it controls
 
-Revenue Mechanism — Fees or economic alignment system
+Revenue Mechanism which comes from fees and economic alignment
 
-Trigger Engine — Event-based autonomous actions
+Trigger Engine which is Event-based autonomous actions, it has no physical world like us so it instead broadcasts its thoughts and propogates itself.
 
-Public Log System — Conversation and action archive
+Public Log System which has a Conversation and action archive
 
-Safety Constraints — Defence against prompt injection, reasoning
+Safety Constraints which is a defence against prompt injection, reasoning
 
 The goal is not chaos.
 The goal is structured autonomy.
@@ -134,7 +74,7 @@ How persistent AI systems behave over time
 
 An ADI should feel like a system with skin in the game.
 
-This repository documents:
+thus, this repository documents:
 
 The conceptual framework
 
